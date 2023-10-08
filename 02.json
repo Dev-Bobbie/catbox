@@ -41,6 +41,15 @@
             "ext":"{\"name\":\"yqk\",\"url\":\"https://api-aws.11ty.top\"}"
         },
         {
+            "key": "kunyu77",
+            "name": "🍎77",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/kunyu77_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "push_agent",
             "name": "📨推送",
             "type": 3,
