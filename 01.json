@@ -1,10 +1,38 @@
 {
     "sites": [
         {
+            "key":"荐片",
+            "name":"🍎荐片",
+            "type":3,
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/libs/drpy2.min.js",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/荐片.js"
+        },
+        {
             "key": "kunyu77",
             "name": "🍎77",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/kunyu77_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "czzy",
+            "name": "🍎czzy",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/czzy_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "kkys",
+            "name": "🍎kkys",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/kkys_open.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
