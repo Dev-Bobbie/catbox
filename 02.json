@@ -11,36 +11,6 @@
             "ext":"{\"name\":\"jianpian\",\"headerPic\":{\"User-Agent\":\"jianpian-version362\",\"Referer\":\"www.jianpianapp.com\"}}"
         },
         {
-            "key": "快看",
-            "name": "🍎备份源三",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"{\"name\":\"kuaikan\"}"
-        },
-        {
-            "key": "csp_BL",
-            "name": "🍎备份源四",
-            "type": 3,
-            "api": "csp_BL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"{\"name\":\"bl\",\"url\":\"https://svip.bljiex.cc/api.php\"}"
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "🍎备份源五",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"{\"name\":\"yqk\",\"url\":\"https://api-aws.11ty.top\"}"
-        },
-        {
             "key": "kunyu77",
             "name": "🍎77",
             "type": 3,
