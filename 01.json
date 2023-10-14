@@ -20,15 +20,6 @@
             "filterable": 1
         },
         {
-            "key": "czzy",
-            "name": "🍎czzy",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/Dev-Bobbie/catbox/main/js/czzy_open.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "kkys",
             "name": "🍎kkys",
             "type": 3,
