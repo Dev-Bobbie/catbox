@@ -8,7 +8,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"{\"name\":\"jianpian\",\"headerPic\":{\"User-Agent\":\"jianpian-version362\",\"Referer\":\"www.jianpianapp.com\"}}"
+            "ext":"{\"name\":\"jianpian\",\"url\":\"http://api2.rinhome.com\",\"headerPic\":{\"User-Agent\":\"jianpian-version362\",\"Referer\":\"www.jianpianapp.com\"}}"
         },
         {
             "key": "kunyu77",
